@@ -6,3 +6,5 @@
 <h2>Using Ansible to create images and containers</h2>
 
 <h2 style="text-align: center"> Ansible Containers Working Fine!!!!! </h2>
+
+<h2> Deploying on Kubernetes Container </h2>
